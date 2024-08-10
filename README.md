@@ -23,3 +23,8 @@ This Python application provides a graphical user interface (GUI) for controllin
 - Use the interface to connect to the Arduino and control the robotic arm.
   
 This application is ideal for hobbyists and developers looking to create or enhance a robotic arm control system with a user-friendly interface.
+
+## How the app looks like
+
+![image](https://github.com/user-attachments/assets/45da2cea-2eb4-46d3-8a20-b55aa383b324)
+
